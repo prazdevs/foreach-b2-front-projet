@@ -4,7 +4,7 @@ C'est le moment de mettre en pratique vos connaissances avec Vue.js et de mettre
 
 ## Quel est le projet (spécifications) ? 
 
-Le est de proposer une expérience utilisateur à partir d'une API de votre choix. En voici quelques-unes, mais libre à vous d'en utiliser une autre (à condition qu'elle rentre dans le cadre du projet) ou même de flex vos compétences backend en la créant vous-mêmes.
+Le but est de proposer une expérience utilisateur à partir d'une API de votre choix. En voici quelques-unes, mais libre à vous d'en utiliser une autre (à condition qu'elle rentre dans le cadre du projet) ou même de flex vos compétences backend en la créant vous-mêmes.
 
 - [PokéAPI](https://pokeapi.co/)
 - [LoL's CDragon API](https://www.communitydragon.org/documentation)
