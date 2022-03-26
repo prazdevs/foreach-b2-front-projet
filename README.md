@@ -37,6 +37,9 @@ L'évaluation des compétences se fera sur les axes suivants:
     - Organiser les différentes composantes du projet (dossiers, nommage...)
     - Analyse statique du code, lintage et formattage (`eslint`, `prettier`...)
     - Documentation (comment démarrer...)
+5. Tester son code
+    - Ecrire des tests pertinents sur des composants.
+    - Mocker correctement les éléments hors du scope d'un test.
 
 Pour vous donner quelques pistes:
 
@@ -57,3 +60,8 @@ Ecrivez le code et faites évoluer le projet comme vous le feriez en entreprise,
 - Essayez de vous appuyer sur la documentation du framework et des outils pour répondre à vos questions (pas la doc de StackOverflow 😡)
 
 > **Enfin, avant tout, amusez-vous :)**
+
+## Note concernant les dates limites de rendu:
+
+- Les points 1 à 3 seront évalués jusqu'au 18 février 2022 (inclus) à minuit.
+- Le point 4 et 5 seront évalués jusqu'au 15 avril 2022 (inclus) à minuit.
